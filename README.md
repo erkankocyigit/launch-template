@@ -19,7 +19,6 @@
     cp -r html5up/arcana/* .
     service nginx start
     ```
-
 # <h3>Auto Scaling Groups</h3>
 - Name — demo-asg
 - Launch Template — demo-lt
