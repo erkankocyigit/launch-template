@@ -35,7 +35,6 @@
 - Next 
 - Desired capacity-2—>Minimum capacityi-1——>Maximum capacity-3
 - Scaling policies—Target tracking scaling policy—>Target value-30
-  
 - _For verify—Load Balancers—click demo-lb —->>DNS name copy and paste safari_
   _(it didn’t work)_
 - _Go to security groups— select default-edit inbound rules—add rules_
