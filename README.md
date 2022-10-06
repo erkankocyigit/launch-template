@@ -42,3 +42,6 @@
 - _Type-Custom TCP——port range-80———source type-Anywhere-IPv4_
 
 
+<img width="1303" alt="Screen Shot 2022-10-06 at 5 20 58 AM" src="https://user-images.githubusercontent.com/113846595/194290488-dc6cbd63-2e82-4bc4-b70b-5ce297560774.png">
+
+<img width="1300" alt="Screen Shot 2022-10-06 at 5 22 54 AM" src="https://user-images.githubusercontent.com/113846595/194290526-6c3fb929-c437-414d-be69-7a6d1ba2e9b2.png">
