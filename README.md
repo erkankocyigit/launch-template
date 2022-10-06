@@ -10,7 +10,7 @@
 - Common security groups — default
 - Advanced network configuration — auto-assign public ip (enable)
 - Advanced details-user data
-    `
+    ```
     #!/bin/bash
     apt update -y
     apt install nginx -y
@@ -18,5 +18,4 @@
     git clone https://github.com/zce/html5up.git
     cp -r html5up/arcana/* .
     service nginx start
-    `
-    
+    ```
