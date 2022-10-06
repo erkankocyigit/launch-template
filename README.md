@@ -1,5 +1,5 @@
 
-TASK1
+# TASK1
 # Creating ubuntu VM
 - Created an Ubuntu VM and Connected it to Internet.
 - Created a vim file.sh inside of Ubuntu Machine And using #!/bin/bash in order to automate all installations that were desired by using sudo command.
@@ -11,7 +11,7 @@ TASK1
 
 
 
-TASK2
+# TASK2
 # Launch-Template
 
 # <h3>Creating Launch Template</h3>
